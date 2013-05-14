@@ -1,5 +1,5 @@
 === SM CPT Sidebar Widget Displays ===
-Contributors: sethmatics, raprec
+Contributors: sethmatics
 Donate link: http://sethmatics.com/extend/plugins
 Tags: sidebar, widget, CPT, custom post type, custom content type, taxonomy
 Requires at least: 3.2
