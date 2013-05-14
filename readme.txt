@@ -42,7 +42,7 @@ None yet, fire away.
 == Changelog ==
 
 Version 1.0.1
-
+- Attempting to remove empty folders from SVN: try 2
 - First public version released, no changes yet.
 
 == Upgrade notice ==
