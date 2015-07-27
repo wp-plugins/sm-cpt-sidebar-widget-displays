@@ -1,10 +1,10 @@
 === SM CPT Sidebar Widget Displays ===
-Contributors: sethmatics
+Contributors: sethcarstens
 Donate link: http://sethmatics.com/extend/plugins
 Tags: sidebar, widget, CPT, custom post type, custom content type, taxonomy
 Requires at least: 3.2
-Tested up to: 3.5.1
-Stable tag: 1.0.1
+Tested up to: 4.2
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,7 +21,7 @@ We plan to expand the feature set of this plugin to work with more post types in
 To install the plugin manually:
 
 1. Extract the contents of the archive (zip file)
-2. Upload the sm-sticky-clicky-star folder to your '/wp-content/plugins' folder
+2. Upload the sm-cpt-sidebar-widget-displays folder to your '/wp-content/plugins' folder
 3. Activate the plugin through the Plugins section in your WordPress admin
 4. Visit the "appearance->widgets" section from within /wp-admin/.
 5. Drag the "SM Display CPTs" widget to a sidebar and configure the options. 
@@ -40,6 +40,9 @@ None yet, fire away.
 2. Example of a the widget on a website, after styling with custom CSS.
 
 == Changelog ==
+
+Version 1.0.1
+- Testing and update for WordPress 4.2
 
 Version 1.0.1
 - Attempting to remove empty folders from SVN: try 2

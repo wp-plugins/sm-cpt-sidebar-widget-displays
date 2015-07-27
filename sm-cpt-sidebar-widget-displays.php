@@ -3,9 +3,9 @@
 Plugin Name: SM CPT Sidebar Widget Displays
 Plugin URI: http://sethmatics.com/extend/
 Description: Lists all pages in site in admin
-Author: Seth Carstens
+Author: sethcarstens
 Author URI: http://profiles.wordpress.org/sethmatics
-Version: 1.0.1
+Version: 1.0.2
 Description:
 Very simple, its plugin that will attempt to display Custom Post Types into the sidebar using widgets. Initially it will be for displaying text that can be styled, like a "testimonials" custom post type that you want to display random testimonials in the sidebar using there "excerpts". As it grows the plugin will handle output of custom fields, featured images, and will give additional default styling options (that can be disabled for customized websites).
 */
